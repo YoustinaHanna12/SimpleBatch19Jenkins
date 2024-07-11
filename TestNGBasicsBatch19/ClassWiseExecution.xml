@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/wmina/Desktop/UdemyProject/TestNGBasicsBatch19/src/test/java/Class01/Annotations.java">
+
+        <classes>
+            <class name="Class01.Priority"></class>
+            <class name="Class01.Annotations"></class>
+            <class name="Class02.softAssert"></class>
+        </classes>
+
+    </test>
+</suite>
